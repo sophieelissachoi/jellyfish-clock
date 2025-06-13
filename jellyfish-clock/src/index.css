@@ -1,0 +1,33 @@
+/*@import "tailwindcss";*/
+@font-face {
+  font-family: myFirstFont;
+  src: url();
+}
+
+* {
+  left: 0;
+  right: 0;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+
+body {
+  background-color: #ffc7e3;
+}
+
+#jellyfish{
+  margin-left: 25%;
+  width: 50%;
+  height: 50%;
+  display: flex;
+  align-items: center
+}
+
+.clock {
+  color: rgb(221, 85, 255);
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-shadow: 3px 3px 5px black;
+}

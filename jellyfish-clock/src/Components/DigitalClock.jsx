@@ -12,6 +12,7 @@ function DigitalClock() {
 
         return () => {
             clearInterval (intervalId)
+            console.log("App mounted");
         }
     }, []);
 

@@ -1,0 +1,6 @@
+{
+  "appId": "com.jellyfishclock.app",
+  "appName": "jellyfish-clock",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

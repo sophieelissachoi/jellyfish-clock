@@ -8,7 +8,7 @@ import jellyfish from "./assets/jellyfish.GIF"
 function App() {
 
   return (
-    <div className = "flex"> 
+    <div> 
       <div id = "jellyfish">
         <img src = {jellyfish} alt = "JellyFish"/>
       </div>
